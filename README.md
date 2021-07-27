@@ -1,14 +1,8 @@
 # Github-Important-Command
 
-### Git clone
-- git clone <https://name-of-the-repository-link>
-
-### Git branch
-- git branch <branch-name>
+ ![](https://github.com/sonu28sharma99/Github-Important-Command/blob/main/Git%20command.png)
 
  
-
-
 
 
 
