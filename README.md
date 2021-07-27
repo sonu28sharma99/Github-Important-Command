@@ -1,5 +1,35 @@
 # Github-Important-Command
 
+### Git clone
+- git clone <https://name-of-the-repository-link>
+
+### Git branch
+- git branch <branch-name>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## echo "# WhiteBoard-WebApplication" >> README.md
 - git init
 - git add README.md
